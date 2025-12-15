@@ -61,7 +61,8 @@ RTL LOGIC FOR FLIPFLOPS
 [RTLimage.pdf](https://github.com/user-attachments/files/24151309/RTLimage.pdf)
 
 TIMING DIGRAMS FOR FLIP FLOPS
-[wave.pdf](https://github.com/user-attachments/files/24151310/wave.pdf)
+[export.bmp](https://github.com/user-attachments/files/24167856/export.bmp)
+
 
 RESULTS
 We got the successful output
